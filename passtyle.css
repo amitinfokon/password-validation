@@ -1,0 +1,50 @@
+.pass-page{
+    margin-left: 30%;
+    margin-top: 18%;
+    width: 40%;
+    /* border: 2px solid red; */
+}
+
+.pass-form input{
+width: 100%;
+height: 40px;
+
+}
+
+.option-height{
+   /* border: 2px solid black; */
+      width: 100%;
+      height: 30px;
+
+      
+
+   
+}
+
+.option-height p{
+    font-size: 20px;
+      font-weight: 800;
+      margin-left: 40px;
+      position: absolute;
+      margin-top: -1px;
+      font-family: Noto Serif Vithkuqi;
+}
+
+ .option-title{
+    height: 16px;
+    width: 16px;
+    border: 2px solid black;
+    border-radius: 50%;
+    /* background-color: red; */
+    position: absolute;
+    margin-left: 5px;
+    /* margin-top: -40px; */
+} 
+
+.invalid{
+    visibility: hidden;
+}
+.valid{
+    visibility: visible;
+    background-color: blue;
+}
